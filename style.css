@@ -1,0 +1,58 @@
+body{
+	background-color: white;
+}
+
+#header {	
+	border-bottom: 1px solid gray;
+	
+}
+#header a{
+	text-decoration:none;
+	color:inherit;
+}
+
+nav a {
+	font-size :15px;
+	text-decoration:none;
+	color:black;
+}
+#news{
+	background-color: #FF4500;
+}
+#info{ 
+	background-color: #FF4500;
+	color: white;
+}
+#tools {
+	position: relative;
+}
+#fork-img {
+	position: relative;
+}
+#img-txt , #tools-txt {
+	font-size: 30rem;
+	position: absolute;
+	color: white ;
+	bottom: 90%;
+	left: 10%;
+	top: 5%;
+}
+#date {
+	cursor:pointer;
+	background-color: #FF4500;
+	color: white;
+	position:relative;
+}
+#date a {
+	text-decoration:none;
+	color:white;
+}
+footer a{
+	text-decoration:none;
+	color: black;
+}
+
+#sub{
+	background-color: #FF4500;
+	color:white;
+}
