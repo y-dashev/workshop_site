@@ -20,7 +20,7 @@
 <div class= "container-fluid clearfix mt-2" >
 <div class= "row no-gutters justify-content-md-center " > 
 	<div class= "col-12 col-lg-6 "> 
-		<img src= "./images/bike.jpg" alt= "bike image" class= "img-fluid">
+		<img src= "/bike.jpg" alt= "bike image" class= "img-fluid">
 	</div>
 	<div class="col-12 col-lg-6 p-3 " id="info">
 		<h3 class= "text-center mb-3 "> NEW BIKES </h3>
@@ -32,7 +32,7 @@
 <div class = "row justify-content-md-center "> 
 	<div id= "tools" class = "col-12 col-lg-4 mt-3 ">
 		<a href ="#">
-		<img class = "img-fluid" alt ="Tools bike" src = "./images/tools.jpg">
+		<img class = "img-fluid" alt ="Tools bike" src = "/tools.jpg">
 		<div id = "tools-txt">
 			<h3 class = "font-weight-bold"> Tech consultation </h3>
 		</div>
@@ -40,7 +40,7 @@
 	</div>
 	<div  id = "fork-img" class = "col-12 col-lg-4 mt-3">
 		<a href="#">
-		<img class = "img-fluid" alt ="fork service" src = "./images/fork.jpg">
+		<img class = "img-fluid" alt ="fork service" src = "/fork.jpg">
 		<div id= "img-txt">
 			<h3 class="font-weight-bold" > Service </h3>
 		</div>
